@@ -99,7 +99,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SortKey: 161593980
   ObjectInterest: 1
-  Flags: 262145
+  Flags: 786433
   NestedObjects: []
   NetworkedBehaviours:
   - {fileID: 2373972990769921556}
@@ -252,7 +252,7 @@ Transform:
   m_GameObject: {fileID: 4062681215231330596}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.086, z: 0}
+  m_LocalPosition: {x: 0, y: 0.317, z: 0}
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_ConstrainProportionsScale: 0
   m_Children: []
